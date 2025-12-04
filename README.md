@@ -19,3 +19,8 @@ This project implements a **Delivery Management System** in Python, demonstratin
 ```bash
 python delivery_management_system/main.py
 ```
+
+---
+
+## Project structure
+delivery-management-system/
